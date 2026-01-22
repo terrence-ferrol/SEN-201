@@ -7,7 +7,7 @@ Traditionally, exeat requests are handled manually using paper forms, which can 
 ## Project Repository
 
 
-GitHub Link: [Student Exeat System](https://github.com/your-username/student-exeat-system)
+GitHub Link: [Student Exeat System](https://github.com/terrence-ferrol/SEN-201/tree/main/student-exeat-system)
 
 
 Aim of the Project:
@@ -46,7 +46,7 @@ Enhances security and monitoring,
 Easy access to exeat records,
 Time-saving for students and administrators.
 
-Author:
+##Author:
 Name: Fowowe Oluwatimilehin Michael.
 Institution: Caleb University, Imota.
 Course: Computer Science.
