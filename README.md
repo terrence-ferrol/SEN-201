@@ -3,7 +3,12 @@ SEN 201 Academic Project: Student Exeat Management System
 The Student Exeat Management System is a web-based application designed to digitize and automate the process of requesting, approving, and tracking student exeats within Caleb University, Imota.
 Traditionally, exeat requests are handled manually using paper forms, which can lead to delays, data loss, and difficulty in tracking students’ movements. This system provides a centralized platform where students can apply for exeats online, while administrators can efficiently review, approve, or reject requests.
 
-git clone = 
+
+## Project Repository
+
+
+GitHub Link: [Student Exeat System](https://github.com/your-username/student-exeat-system)
+
 
 Aim of the Project:
 The main aim of this project is to simplify, secure, and improve the management of student exeats by replacing the manual process with a digital solution.
