@@ -1,0 +1,9 @@
+<h2>My Exeat Requests</h2>
+<a href="/apply">Apply for Exeat</a>
+<ul>
+{% for e in exeats %}
+<li>
+{{ e['reason'] }} | {{ e['departure_date'] }} → {{ e['return_date'] }} | Status: {{ e['status'] }}
+</li>
+{% endfor %}
+</ul>

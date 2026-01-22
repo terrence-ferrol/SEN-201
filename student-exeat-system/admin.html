@@ -1,0 +1,10 @@
+<h2>Admin Dashboard</h2>
+<ul>
+{% for e in exeats %}
+<li>
+{{ e['name'] }} | {{ e['reason'] }} | {{ e['status'] }}
+<a href="/approve/{{ e['id'] }}">Approve</a>
+<a href="/reject/{{ e['id'] }}">Reject</a>
+</li>
+{% endfor %}
+</ul>
